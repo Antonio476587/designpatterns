@@ -43,12 +43,12 @@ Wraps an object to control access to it.
 
 ## Patterns that I know but I haven't studied yet:
 
-## Lightweight
-## Bridge
-## Builder
-## Interpreter
-## Chain of responsability
-## Mediator
-## Memento
-## Prototype
-## Visitor
+### Lightweight
+### Bridge
+### Builder
+### Interpreter
+### Chain of responsability
+### Mediator
+### Memento
+### Prototype
+### Visitor
